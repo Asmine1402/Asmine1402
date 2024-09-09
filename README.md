@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asmine1402
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning hhow to create website
-- 💞️ I’m looking to collaborate on expert
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning development
+- 💞️ I’m looking to collaborate with friend
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
